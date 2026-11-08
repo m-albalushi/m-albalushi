@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Musallam Al Balushi 👋
 
-<!--
-**m-albalushi/m-albalushi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Network & IT Infrastructure Engineer based in Muscat, Oman.
 
-Here are some ideas to get you started:
+## What I work with
+- **Networking:** Cisco switching, wireless (WLC), ISE, CUCM, Duo
+- **Security:** Palo Alto and FortiGate firewalls
+- **Systems:** Active Directory, Linux (Ubuntu), NTP
+- **Automation:** Python, Cisco AXL API, Playwright, OCR (AI-assisted)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- **CUCM phone provisioning:** automates new-employee IP phone setup
+- **Wi-Fi account automation:** automates account creation and renewal
+- **Circular OCR:** files Arabic/English circulars from Outlook by month
+- **EVE-NG firewall labs:** Palo Alto and FortiGate setup and testing
+
+## Connect
+[LinkedIn](https://linkedin.com/in/musallam1albalushi)
