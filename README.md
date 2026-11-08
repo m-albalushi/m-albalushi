@@ -6,7 +6,7 @@ Network & IT Infrastructure Engineer based in Muscat, Oman.
 - **Networking:** Cisco switching, wireless (WLC), ISE, CUCM, Duo
 - **Security:** Palo Alto and FortiGate firewalls
 - **Systems:** Active Directory, Linux (Ubuntu), NTP
-- **Automation:** Python, Cisco AXL API, Playwright, OCR (AI-assisted)
+- **Automation:** Python, Cisco AXL API, Playwright
 
 ## Projects
 - **CUCM phone provisioning:** automates new-employee IP phone setup
